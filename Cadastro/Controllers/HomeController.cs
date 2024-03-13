@@ -23,7 +23,7 @@ namespace Cadastro.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult teste()
         {
             return View();
         }
